@@ -1,3 +1,6 @@
+![Dashboard Preview](dashboard_preview.png)
+
+
 # Sales Performance, Profitability & Delivery Analysis (Excel Dashboard)
 
 ## Executive Summary
